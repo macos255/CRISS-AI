@@ -1,4 +1,4 @@
-     𝗖𝗥𝗜𝗦𝗦 𝗔𝗜 𝗠𝗨𝗟𝗧𝗜 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧
+     𝗖𝗥𝗜𝗦𝗦 𝗔𝗜 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">
@@ -47,4 +47,8 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=criss-vevo&show_icons=true&locale=en" alt="criss-vevo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=criss-vevo&" alt="criss-vevo" /></p>
 
